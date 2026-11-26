@@ -23,5 +23,29 @@
     "offerUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
     "dataPolicyUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
     "cdnAudioUrl": "https://dinislamovarsen2010-hub.github.io/cdn/"
-  }
-]
+  },
+{
+  "region": "WORLD",
+    "cdnUrl": "https://github.io",
+    "cdnBackupUrl": "https://github.io",
+    "apiUsername": "",
+    "apiBackupUsername": "",
+    "apiPassword": "",
+    "apiBackupPassword": "",
+    "donateUrl": "https://github.io",
+    "donate2ApiUrl": "https://github.io",
+    "paymentMarketVerificationUrl": "https://github.io",
+    "paymentRustoreVerificationUrl": "https://github.io",
+    "serverRules": "https://github.io",
+    "registrationSite": "https://github.io",
+    "registrationService": "https://github.io",
+    "characterService": "https://github.io",
+    "telegramUrl": "https://t.me",
+    "telegramBotUrl": "https://t.me",
+    "vkUrl": "https://vk.com",
+    "discordUrl": "https://discord.com",
+    "policyUrl": "https://github.io",
+    "offerUrl": "https://github.io",
+    "dataPolicyUrl": "https://github.io",
+    "cdnAudioUrl": "https://github.io"
+}
