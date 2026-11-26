@@ -1,1 +1,14 @@
-{}
+{
+  "typeDownloadResources": "default",
+  "downloadSizeWithoutConfirm": 100,
+  "isEnabledRecovery": false,
+  "downloadSpeedLimit": 0,
+  "isEnabledCheckResources": false,
+  "candidateVersion": 1,
+  "downloadTimeout": 30000,
+  "connectionTimeout": 30000,
+  "isEnabledNextSlotDownloading": false,
+  "isEnabledSendingOfCDNMetric": false,
+  "isEnabledCheckCompatibleClientVersion": false,
+  "forceCheckResources": false
+}
