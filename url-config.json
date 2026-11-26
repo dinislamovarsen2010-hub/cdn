@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "region": "CIS",
+    "cdnUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "cdnBackupUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "apiUsername": "",
+    "apiBackupUsername": "",
+    "apiPassword": "",
+    "apiBackupPassword": "",
+    "donateUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "donate2ApiUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "paymentMarketVerificationUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "paymentRustoreVerificationUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "serverRules": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "registrationSite": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "registrationService": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "characterService": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "telegramUrl": "https://t.me",
+    "telegramBotUrl": "https://t.me",
+    "vkUrl": "https://vk.com",
+    "discordUrl": "https://discord.com",
+    "policyUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "offerUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "dataPolicyUrl": "https://dinislamovarsen2010-hub.github.io/cdn/",
+    "cdnAudioUrl": "https://dinislamovarsen2010-hub.github.io/cdn/"
+  }
+]
